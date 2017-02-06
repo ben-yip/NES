@@ -1,5 +1,5 @@
 # NES
-NES(Nintendo Entertainment System) games collection &amp; emulators.
+NES(Nintendo Entertainment System) game collection &amp; emulators.
 
 # Emulators
 
