@@ -1,3 +1,6 @@
 # IntelliJ project files
 .idea
 
+# ignore unzipped emulators in current folder
+emulators/Nestopia140bin
+emulators/virtuanes097e
